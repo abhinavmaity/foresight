@@ -55,8 +55,6 @@ The aim here is to develop an **AI-powered CRM system** that automates lead capt
       <a href="https://github.com/singhsoumya-08"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/></a>
       <a href="https://linkedin.com/in/soumyasingh"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ak-8225">
         <img src="https://github.com/ak-8225.png" width="100px;" alt="Akshay Kumar"/><br />
