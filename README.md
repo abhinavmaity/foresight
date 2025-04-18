@@ -34,14 +34,7 @@ The aim here is to develop an **AI-powered CRM system** that automates lead capt
 ---
 ## 👾 Model Outputs
 
-![WhatsApp Image 2025-04-11 at 14 37 49](https://github.com/user-attachments/assets/3d0ec2be-7181-40ad-a985-926d0222051f)
-![WhatsApp Image 2025-04-11 at 14 37 32](https://github.com/user-attachments/assets/a88a54f1-583b-47d1-b296-99b46998b7e9)
-![WhatsApp Image 2025-04-11 at 14 37 09](https://github.com/user-attachments/assets/dd528eb9-7360-444c-b8cd-b0f85559ea12)
-![WhatsApp Image 2025-04-11 at 14 47 03](https://github.com/user-attachments/assets/9be6cfee-7cff-461d-beeb-4a551ad677a2)
-![WhatsApp Image 2025-04-11 at 14 46 45](https://github.com/user-attachments/assets/8677a4b5-91ba-4246-b59c-a5440992d097)
-![WhatsApp Image 2025-04-11 at 14 46 16](https://github.com/user-attachments/assets/e81a28fa-631f-4162-92de-1a0f56ff1d92)
-![WhatsApp Image 2025-04-11 at 14 39 01](https://github.com/user-attachments/assets/22ed667d-28ed-4d61-bf29-42a6a5d14cc5)
-![WhatsApp Image 2025-04-11 at 14 38 31](https://github.com/user-attachments/assets/e8783856-7c32-4b3e-988b-249740d183ce)
+
 
 ---
 
