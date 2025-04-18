@@ -33,7 +33,45 @@ The aim here is to develop an **AI-powered CRM system** that automates lead capt
 ---
 
 ## 👥 Team
-Abhinav Maity  
-Soumya Singh  
-Akshay Kumar  
-Anushka Srivastava
+### 👥 Team Members
+
+## 👥 Team Members
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/abhinavmaity">
+        <img src="https://github.com/abhinavmaity.png" width="100px;" alt="Abhinav Maity"/><br />
+        <sub><b>Abhinav Maity</b></sub>
+      </a><br/>
+      <a href="https://github.com/abhinavmaity"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://linkedin.com/in/abhinav-maity-a23bb3227"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/soumyasingh">
+        <img src="https://github.com/soumyasingh.png" width="100px;" alt="Soumya Singh"/><br />
+        <sub><b>Soumya Singh</b></sub>
+      </a><br/>
+      <a href="https://github.com/soumyasingh"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://linkedin.com/in/soumyasingh"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/akshaykumar">
+        <img src="https://github.com/akshaykumar.png" width="100px;" alt="Akshay Kumar"/><br />
+        <sub><b>Akshay Kumar</b></sub>
+      </a><br/>
+      <a href="https://github.com/ak-8225"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/akshay-kumar-b61aa624b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anushka">
+        <img src="https://github.com/anushka.png" width="100px;" alt="Anushka Srivastava"/><br />
+        <sub><b>Anushka Srivastava</b></sub>
+      </a><br/>
+      <a href="https://github.com/kuhu42"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://linkedin.com/in/kuhu42"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
