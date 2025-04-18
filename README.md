@@ -10,7 +10,7 @@ The aim here is to develop an **AI-powered CRM system** that automates lead capt
 📊 Context-Aware Lead Scoring  
 💬 Sentiment Analysis of Conversations  
 📅 Adaptive Follow-up Scheduling and Automated Mail Send  
-📈 Sales Forecasting & Pipeline Health Check Dashboarding
+📈 Sales Forecasting & Pipeline Health Check Dashboarding  
 🔗 ERP Integration for Unified Business Operations
 
 ---
