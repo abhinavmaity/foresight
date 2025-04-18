@@ -20,8 +20,7 @@ The aim here is to develop an **AI-powered CRM system** that automates lead capt
 
 
 ## 🛠 Tech Stack
-
-- **Backend:** Supabase  
+ 
 - **Frontend:** React, JavaScript, HTML, CSS  
 - **Database:** Supabase (PostgreSQL-based)  
 - **Lead Scoring Model:** Random Forest (Scikit-learn)  
