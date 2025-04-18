@@ -27,7 +27,7 @@ The aim here is to develop an **AI-powered CRM system** that automates lead capt
 - **Lead Scoring Model:** Random Forest (Scikit-learn)  
 - **Sentiment Analysis:** NLP-based classification model  
 - **Automated Email Generation:** GPT (OpenAI API)  
-- **Web Scraping:** Python scripts (BeautifulSoup, Requests/Selenium)  
+- **Web Scraping:** Python scripts (BeautifulSoup)  
 - **Dashboarding & Reporting:** React-based UI (optional integration with Power BI)
 
 ---
